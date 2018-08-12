@@ -25,3 +25,5 @@
 ## 2018
 
 - January 16, 2018: Article on [Adafruit blog](https://blog.adafruit.com/2018/01/16/level-up-your-programming-skills-learn-multiple-coding-languages-with-exercism-exercism_io/)
+- August 8, 2018: [ChangeLog interview](https://changelog.com/podcast/309?utm_medium=email&utm_campaign=Guest%20Thanks&utm_content=Guest%20Thanks+ID_61acaec1-0b77-4703-a5e6-22794c4e9e53&utm_source=changelog%20email&utm_term=httpschangelogcompodcast309) with Katrina 
+- August 10, 2018: [Silicon Canal](Exercise your coding skills: rejuvenated platform empowers thousands of developers to learn a new language for free) blogpost: Exercise your coding skills: rejuvenated platform empowers thousands of developers to learn a new language for free
